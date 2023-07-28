@@ -10,6 +10,7 @@ In this project, I will learn how to configure an AWS CI/CD pipeline. A pipeline
 - AWS CodeDeploy
 - Amazon EC2
 - Amazon S3
-![Team document](https://github.com/Mthoko1196/Set-Up-a-CI-CD-Pipeline-on-AWS/assets/92365100/3e4f21eb-2447-4442-8020-1e957e867b99)
 
+
+![Team document 1](https://github.com/Mthoko1196/Set-Up-a-CI-CD-Pipeline-on-AWS/assets/92365100/24c67c58-8cc7-4482-a949-2f3331841796)
 
